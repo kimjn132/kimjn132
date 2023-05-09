@@ -45,12 +45,14 @@ Here are some ideas to get you started:
   <br/>
   
 [![Anna's GitHub stats](https://github-readme-stats-lac-one.vercel.app/api?username=kimjn132&show_icons=true&theme=tokyonight)](https://github-readme-stats-lac-one.vercel.app)
-  
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjn132&layout=compact&theme=tokyonight)-->
   
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX6tgJTPRXYIiRkOTs2lk9g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCX6tgJTPRXYIiRkOTs2lk9g"/></a>&nbsp
   <a href="mailto:lkjh132435@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=lkjh132435@naver.com"/></a>
 </p>
+  
+
   
 </div>
