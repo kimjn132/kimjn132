@@ -44,6 +44,6 @@ Here are some ideas to get you started:
  
   <br/>
   
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjn132)](https://github.com/kimjn132/github-readme-stats)
+[![Anna's GitHub stats](https://github-readme-stats-lac-one.vercel.app/api?username=kimjn132&show_icons=true&theme=tokyonight)](https://github-readme-stats-lac-one.vercel.app)
   
 </div>
