@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX6tgJTPRXYIiRkOTs2lk9g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCX6tgJTPRXYIiRkOTs2lk9g"/></a>&nbsp
-  <a href="mailto:lkjh132435@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=lkjh132435@naver.com"/></a>
+  <a href="mailto:lkjh132435@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=lkjh132435@naver.com"/></a>&nbsp
+  <a href="https://anna1032-vlogstory.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F97466?style=flat-square&logo=Tistory&logoColor=white&link=https://anna1032-vlogstory.tistory.com/"/></a>
 </p>
   
 
